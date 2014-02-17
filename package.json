@@ -47,6 +47,7 @@
     "node": ">=0.8.0"
   },
   "scripts": {
+    "start": "grunt build serve",
     "postinstall": "bower install",
     "test": "grunt test"
   }
